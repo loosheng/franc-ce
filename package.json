@@ -1,7 +1,7 @@
 {
   "name": "franc-ce",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "packageManager": "pnpm@7.2.1",
   "description": "The esm and commonjs compatible version of the franc library",
   "author": "LooSheng <loosheng@outlook.com>",
@@ -12,7 +12,11 @@
     "url": "git+https://github.com/loosheng/franc-ce.git"
   },
   "bugs": "https://github.com/loosheng/franc-ce/issues",
-  "keywords": ["franc", "esm", "commonjs"],
+  "keywords": [
+    "franc",
+    "esm",
+    "commonjs"
+  ],
   "sideEffects": false,
   "exports": {
     ".": {
