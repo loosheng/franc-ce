@@ -6,7 +6,7 @@ The esm and commonJs compatible version of the franc library.
 
 ## Why does it exist ?
 
-franc@6.0.0 is ESM Only,I can't use it in the vscode extension.
+[franc](https://github.com/wooorm/franc)@6.0.0 is ESM Only,I can't use it in the vscode extension.
 
 ## User's Guide
 ```bash
