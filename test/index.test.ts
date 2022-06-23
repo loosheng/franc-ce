@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { franc, francAll } from '..'
+import { franc, francAll } from '../src'
 
 describe('franc tests', () => {
   it('franc', () => {
