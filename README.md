@@ -10,9 +10,8 @@ The esm and commonJs compatible version of the franc library.
 
 ## Usage
 ```bash
-pnpm i franc-ce 
-# or yarn add franc-ce
-# or npm add franc-ce
+npm uninstall franc
+npm i franc-ce
 ```
 ```diff
 --- import {franc, francAll} from 'franc'
