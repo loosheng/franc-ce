@@ -8,7 +8,7 @@ The esm and commonJs compatible version of the franc library.
 
 [franc](https://github.com/wooorm/franc)@6.0.0 is ESM Only,I can't use it in the vscode extension.
 
-## User's Guide
+## Usage
 ```bash
 pnpm i franc-ce 
 # or yarn add franc-ce
