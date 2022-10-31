@@ -4,14 +4,14 @@
   "version": "0.1.1",
   "packageManager": "pnpm@7.2.1",
   "description": "The esm and commonjs compatible version of the franc library",
-  "author": "LooSheng <loosheng@outlook.com>",
+  "author": "Rasho <loosheng@outlook.com>",
   "license": "MIT",
-  "homepage": "https://github.com/loosheng/franc-ce#readme",
+  "homepage": "https://github.com/rasho7/franc-ce#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/loosheng/franc-ce.git"
+    "url": "git+https://github.com/rasho7/franc-ce.git"
   },
-  "bugs": "https://github.com/loosheng/franc-ce/issues",
+  "bugs": "https://github.com/rasho7/franc-ce/issues",
   "keywords": [
     "franc",
     "esm",

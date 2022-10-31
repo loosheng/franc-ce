@@ -21,4 +21,4 @@ npm i franc-ce
 
 ## License
 
-[MIT](./LICENSE) License © 2022 [LooSheng](https://github.com/loosheng)
+[MIT](./LICENSE) License © 2022 [Rasho](https://github.com/rasho7)
